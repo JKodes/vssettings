@@ -1,0 +1,27 @@
+{
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "editor.fontSize": 13,
+  "editor.lineHeight": 1.5,
+  "editor.wordWrap": "on",
+  "editor.fontWeight": "normal",
+  "workbench.iconTheme": "bearded-icons",
+  "editor.matchBrackets": "never",
+  "terminal.integrated.fontFamily": "'SourceCodePro+Powerline+AwesomeRegular'",
+  "terminal.integrated.cursorBlinking": false,
+  "files.autoSave": "afterDelay",
+  "workbench.activityBar.visible": false,
+  "workbench.colorTheme": "Bearded Theme Arc",
+  "workbench.colorCustomizations": {
+    "editorGutter.background": "#131521",
+    "editor.background": "#131521"
+  },
+  "html.validate.scripts": false,
+  "editor.formatOnSave": true,
+  "editor.autoIndent": "none",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
